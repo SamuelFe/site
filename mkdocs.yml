@@ -13,6 +13,9 @@ theme:
     favicon: material/alpha-s-circle
   language: pt-BR
 
+plugins:
+  - blog
+
 extra:
   social:
     - icon: fontawesome/brands/github

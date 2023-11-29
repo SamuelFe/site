@@ -1,0 +1,23 @@
+site_name: SaFe
+
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: green
+  icon:
+    logo: material/chat
+    favicon: material/alpha-s-circle
+  language: pt-BR
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SamuelFe/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/samuelfe/
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/samuelfe"  target="_blank" rel="noopener">Samuel Fernandes</a>

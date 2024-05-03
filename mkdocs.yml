@@ -1,20 +1,31 @@
-site_name: SaFe
-site_url: https://samuelfe.com
+site_name: safe
+site_url: https://samuelfe.com/
+site_author: Samuel Fernandes
+site_description: >-
+  Este é um site usado como um Blog pessoal onde são postadas páginas sobre as mais variadas coisas do interesse do autor.
 
+plugins:
+  - blog
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
 theme:
   name: material
   palette:
     scheme: slate
-    primary: green
+    primary: light blue
     accent: green
+  logo: assets/logo.svg
   icon:
-    logo: material/chat
-    favicon: material/alpha-s-circle
+    favicon: images/favicon.png
   language: pt-BR
 
-plugins:
-  - blog
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
   social:
@@ -22,6 +33,9 @@ extra:
       link: https://github.com/SamuelFe/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/samuelfe/
+extra_css:
+  - stylesheets/highlight.css
+  - stylesheets/highlight_under.css
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/samuelfe"  target="_blank" rel="noopener">Samuel Fernandes</a>
+  &copy; 2024 <a href="https://github.com/samuelfe"  target="_blank" rel="noopener">Samuel Fernandes</a>

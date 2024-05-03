@@ -1,5 +1,13 @@
 # Início
 
-[Blog](./blog/index.md)
+<div class="grid cards" markdown>
 
-[Sobre](./about.md)
+- [:brain: __Pensamentos__](blog/category/pensamentos/)
+- [:cool: __Nerdices__](blog/category/nerdices/)
+
+</div>
+
+
+[Blog](blog/index.md)
+
+[Sobre](about.md)

@@ -2,6 +2,7 @@
 date: 2023-11-29
 
 categories:
+  - Nerdices
   - Linux
 ---
 
@@ -9,7 +10,7 @@ categories:
 
 Eu uso o [Arch Linux](https://archlinux.org/) já a alguns anos, gosto muito dela. Gosto do gerenciador de pacotes `pacman` e de poder modular as coisas do jeito que quiser, mantendo ela leve (mesmo que tenha espaço e hardware para um ambiente linux mais convencional), enfim, é um gosto que tenho.
 
-Algum tempo atrás descobri a distribuição [Archcraft](https://archcraft.io/). Ela é, obviamente, baseada no Arch Linux e é simples na sua construção, seguindo a linha de como eu mesmo vinha montando o sistema com o Arch original. Inicialmente instalei ela para ver como ela era construída, os pacotes que eram utilizados, como era o sistema de trocar os temas. Eu já tinha uma ideia e um princípio de um script juntamente com uma estrutura de arquivos para gerar um utilitário que possibilitasse mudar completamente a aparência do ambiente rapidamente e quando eu quisesse, mas então antes de seguir em frente e aumentar a complexidade do que eu já tinha, fui ver como essa distribuição havia feito.
+Algum tempo atrás descobri a distribuição [Archcraft](https://archcraft.io/).<!-- more --> Ela é, obviamente, baseada no Arch Linux e é simples na sua construção, seguindo a linha de como eu mesmo vinha montando o sistema com o Arch original. Inicialmente instalei ela para ver como ela era construída, os pacotes que eram utilizados, como era o sistema de trocar os temas. Eu já tinha uma ideia e um princípio de um script juntamente com uma estrutura de arquivos para gerar um utilitário que possibilitasse mudar completamente a aparência do ambiente rapidamente e quando eu quisesse, mas então antes de seguir em frente e aumentar a complexidade do que eu já tinha, fui ver como essa distribuição havia feito.
 
 Eu acabei ficando no próprio Archcraft por bastante tempo e até pensei recentemente em voltar ao Arch original. Eu queria retirar algumas coisas do Archcraft, para mim utilizar o [Oh My Zsh](https://ohmyz.sh/) é demais para o que quero do zsh, além de que essa distribuição deixa por padrão várias coisas na pasta home e eu não gosto disso. Dá para ajeitar algumas das coisas, porém eu não queria ficar preso em ter que ajeitar novamente quando fosse atualizar a distribuição. Por isso, o Arch original parece mais simples, no sentido de ser exatamente como eu o fizer.
 

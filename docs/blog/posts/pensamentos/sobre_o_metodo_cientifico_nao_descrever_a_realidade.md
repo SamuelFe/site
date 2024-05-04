@@ -3,7 +3,6 @@ date: 2024-05-03
 
 categories:
   - Pensamentos
-  - Catolicismo
 ---
 
 

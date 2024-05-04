@@ -1,0 +1,176 @@
+@import url("colors.css");
+
+:root {
+  --r: 5px; /* the size/radius */
+}
+
+.under_red {
+  --c:var(--red); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.under_orange {
+  --c:var(--orange); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.under_yellow {
+  --c:var(--yellow); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.under_green {
+  --c:var(--green); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.under_cyan {
+  --c:var(--cyan); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.under_blue {
+  --c:var(--blue); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.under_dark_blue {
+  --c:var(--dark_blue); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.under_purple {
+  --c:var(--purple); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.under_grey {
+  --c:var(--grey); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.under_pink {
+  --c:var(--pink); /* the color */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.1rem;
+  line-height: 1;
+  font-size: 100%;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+

@@ -22,4 +22,4 @@ Aí então surgem os Santos como grandes amigos. É verdade que eles têm (assim
 
 Essa perspectiva já lhes dá uma medida excelente de como nós podemos amar a Deus. Nos permite <span class="purple">sonhar</span>. Tira o sentido de toda a aversão que muitos têm com os Santos.
 
-Nem entrei no fato de que eles estão no Céu e podem ser um poderoso e ativo auxílio se para isso pedir sua intercessão aqui em terra. Mas é outra história.
+Nem entrei no fato de que eles estão no Céu e podem ser poderosos e ativos auxíliadores se para isso pedirmos sua intercessão aqui em terra. Mas essa é outra história.

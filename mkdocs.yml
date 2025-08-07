@@ -1,4 +1,4 @@
-site_name: safe
+site_name: Samuel Fernandes
 site_url: https://samuelfe.com/
 site_author: Samuel Fernandes
 site_description: >-
@@ -38,4 +38,4 @@ extra_css:
   - stylesheets/highlight_under.css
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/samuelfe"  target="_blank" rel="noopener">Samuel Fernandes</a>
+  &copy; 2025 <a href="https://github.com/samuelfe"  target="_blank" rel="noopener">Samuel Fernandes</a>
